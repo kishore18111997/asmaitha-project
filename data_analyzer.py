@@ -13,3 +13,4 @@ if __name__ == "__main__":
     print("Average:", average)
     print("Maximum:", maximum)
     print("Minimum:", minimum)
+# i have made my first change
